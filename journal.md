@@ -7,3 +7,4 @@ Date 2/11/2025: Pitch-Your-Project assignment. Group project. will be giving an 
 2/13/2025:lab time. worked on our pitch project and discussed ui mockups
 2/18/2025: presented our project and heard other classmates project
 2/20/2025: Finished project presentations. worked on create individual branches and merging them to git hub (i think thats how it works)
+Date:2/25/2025 - Talked about Kanban and made one for our github group
